@@ -1,2 +1,2 @@
 -- script that inserts a new row in the table
-ALTER TABLE first_table ADD CONSTRAINT unique_id UNIQUE (id);
+INSERT INTO first_table (id, name) VALUES (89, 'Best School');
