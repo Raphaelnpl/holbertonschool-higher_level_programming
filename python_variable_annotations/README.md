@@ -1,1 +1,1 @@
-hi
+python_variable_annotations
